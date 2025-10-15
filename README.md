@@ -1,0 +1,2 @@
+# ai_bubble_predictor
+AI利用者とAIバブルはじけた場合の影響
